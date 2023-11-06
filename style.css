@@ -1,0 +1,50 @@
+a {
+    text-decoration : none;
+    color : black;
+}
+a:hover {
+    color : white;
+}
+#pertama h2 {
+    text-align : center;
+    color : #d46b08;
+}
+#kedua div h3 {
+    text-align : center;
+}
+#kedua img, #ketiga img, #keempat img {
+    width : 100%;
+}
+.bungkus {
+    display : flex;
+    align-items : center;
+    justify-content: center;
+    padding : 20px;
+}
+.button {
+    background-color : #dc8c1b;
+    font-size : 24px;
+    border-radius : 20px;
+    text-align : center;
+    width : 80%;
+    padding : 10px;
+}
+#ketiga div div h3 {
+    text-align : center;
+}
+#keempat div div h3 {
+    text-align : center;
+}
+.bks-comment {
+    display : flex;
+    flex-direction: row;
+    column-gap: 50px;
+    align-items : center;
+}
+.gambar img {
+    width : 50px;
+    border-radius : 100%;
+}
+.nama {
+    color : #999;
+}
